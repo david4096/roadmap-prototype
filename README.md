@@ -1,3 +1,5 @@
+<img src="diagrams/maze.svg" alt="A small wooden maze" width="225" />
+
 # roadmap-prototype
 
 Programmers are often asked not only to predict how long it will 
@@ -47,7 +49,7 @@ issues if its available.
 
 Without a document, there is nothing to maintain and no plan needed.
 
-* Roadmap prototype markdown written.
+* Roadmap prototype markdown written (#1)
 * Creation of repository
 
 ### Review (July, 2018)
@@ -97,3 +99,4 @@ There is currently no way to make changes to this roadmap. After
 we have reached the first milestone changes can be proposed as 
 git issues.
 
+Maze image courtesy of [nicubunu on openclipart.org](https://openclipart.org/detail/11476/rpg-map-symbols-maze)/
